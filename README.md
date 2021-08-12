@@ -21,9 +21,12 @@ Scripts에 해당하는 c# scipts로는
 게임 내 다양한 자원들의 정보를 담고있습니다.
 
 게임 내 사용되는 아트인 Sprites들과 이를 기반으로 한 animation
+
 그리고 Prefabs의 정보를 가지고 있습니다.
 
+
 일부 GUI와 VFX는 store에서 구했으나 이외의 대부분의 sprites와 anim은
+
 직접 제작해서 사용하고 있습니다.
 
 ## Documents
